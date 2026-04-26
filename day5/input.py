@@ -7,3 +7,5 @@ print(height)
 print(type(name))
 print(type(age))
 print(type(height))
+
+print("%s的年龄是%s，身高是%s" % (name, age, height))
